@@ -6466,6 +6466,7 @@
 		(at 308.61 265.43 0)
 		(effects
 			(font
+				(face "Bahnschrift")
 				(size 8 8)
 				(thickness 1.2)
 				(bold yes)
@@ -6479,6 +6480,7 @@
 		(at 416.306 52.832 0)
 		(effects
 			(font
+				(face "Bahnschrift")
 				(size 8 8)
 				(thickness 1.2)
 				(bold yes)
@@ -6504,6 +6506,7 @@
 		(at 177.292 194.31 0)
 		(effects
 			(font
+				(face "Bahnschrift")
 				(size 8 8)
 				(thickness 1.2)
 				(bold yes)
@@ -6531,6 +6534,7 @@
 		(at 307.086 194.056 0)
 		(effects
 			(font
+				(face "Bahnschrift")
 				(size 8 8)
 				(thickness 1.2)
 				(bold yes)
@@ -6544,6 +6548,7 @@
 		(at 181.356 265.684 0)
 		(effects
 			(font
+				(face "Bahnschrift")
 				(size 8 8)
 				(thickness 1.2)
 				(bold yes)
@@ -6569,6 +6574,7 @@
 		(at 307.34 52.832 0)
 		(effects
 			(font
+				(face "Bahnschrift")
 				(size 8 8)
 				(thickness 1.2)
 				(bold yes)
@@ -6582,6 +6588,7 @@
 		(at 414.274 194.056 0)
 		(effects
 			(font
+				(face "Bahnschrift")
 				(size 8 8)
 				(thickness 1.2)
 				(bold yes)
@@ -6595,6 +6602,7 @@
 		(at 173.99 52.832 0)
 		(effects
 			(font
+				(face "Bahnschrift")
 				(size 8 8)
 				(thickness 1.2)
 				(bold yes)
