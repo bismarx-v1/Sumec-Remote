@@ -16864,7 +16864,7 @@
 				(font
 					(face "Bahnschrift")
 					(size 0.7 0.7)
-					(thickness 0.7)
+					(thickness 0.175)
 				)
 			)
 			(render_cache "IC1" 0
@@ -16914,7 +16914,7 @@
 				(font
 					(face "Bahnschrift")
 					(size 0.7 0.7)
-					(thickness 0.7)
+					(thickness 0.175)
 				)
 			)
 			(render_cache "DS04-254-1-05BK-SMT" 90
@@ -17635,6 +17635,17 @@
 			(pinfunction "NO_5")
 			(pintype "passive")
 			(uuid "2e17b118-8da5-4569-9add-4ed4d4f14cdc")
+		)
+		(model "C:/Users/MenMe/GitHub/Sumec-MiniSumo/-PCB-/_libs/sumec_3d/SMD_DIP_SWITCH_5P.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
